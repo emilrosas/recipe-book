@@ -4,4 +4,4 @@
 
 - tagliatelle
 - parmigiano reggiano
-- eggs
+- 3 eggs
