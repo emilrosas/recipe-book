@@ -7,7 +7,6 @@
 - pancetta
 - peas
 - mushrooms
-- onions
 
 
 ## Instructions
